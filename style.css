@@ -1,0 +1,20 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* .container {
+    width: 80%;
+    margin: 0 auto;
+} */
+
+h1 {
+    text-align: center;
+}
+
+.error-msg, .t2-error-msg, .t3-error-msg {
+    color: red;
+}
+
+input {
+    max-width: 460px;
+}
